@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Tencent.
+- 🔭 I’m currently working at Tencent.
 - 🌱 I’m currently learning Computer Graphics.
 - 👯 I’m looking to collaborate on Game Making. 
 - 🤔 I’m looking for help with CG and Network Architect.
