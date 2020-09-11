@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Game Making. 
 - 🤔 I’m looking for help with CG and Network Architect.
 - 💬 Ask me about anything.
-- 📫 How to reach me: wechat: zjdx1998
+- 📫 How to reach me: wechat: zjdx_1998
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
