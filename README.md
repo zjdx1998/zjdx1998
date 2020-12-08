@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working at Tencent.
 - 🌱 I’m currently learning Computer Graphics.
 - 👯 I’m looking to collaborate on Game Making. 
-- 🤔 I’m looking for help with CG and Network Architect.
+- 🤔 Loving [Yuhan](https://github.com/YuhanYue)
 - 💬 Ask me about anything.
 - 📫 How to reach me: wechat: zjdx_1998
 <!--
