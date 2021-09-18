@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at Tencent.
-- 🌱 I’m currently learning Computer Graphics.
+- 🔭 I’m currently studying at Northeastern University, Seattle campus from Sep 2021 to May 2023.
+- 🌱 I’m actively looking for 2022 summer or fall internship in WA or CA.
 - 👯 I’m looking to collaborate on Game Making. 
 - 💬 Ask me about anything.
-- 📫 How to reach me: wechat: zjdx_1998
+- 📫 How to reach me: https://www.linkedin.com/in/jeromyzhang/
 <!--
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
