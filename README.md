@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![我的GitHub状态统计](https://github-readme-stats.vercel.app/api?username=zjdx1998&theme=blueberry&show_icons=true) 
+
 <!--
 **zjdx1998/zjdx1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
