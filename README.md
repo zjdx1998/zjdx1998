@@ -19,8 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--
 - Reference: https://github.com/simple-icons/simple-icons
 - Reference: https://github.com/devicons/devicon
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
