@@ -2,7 +2,7 @@
 
 ![我的GitHub状态统计](https://github-readme-stats.vercel.app/api?username=zjdx1998&theme=blueberry&show_icons=true) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=flyandnotdown" alt="flyandnotdown" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=zjdx1998&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **zjdx1998/zjdx1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
