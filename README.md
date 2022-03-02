@@ -68,3 +68,18 @@ Here are some ideas to get you started:
 <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> 
 </p>
 
+<p align="center">
+  <i>Take a look at my repositories and let's get in touch!</i>
+
+<p align="center">
+<a href= "https://github.com/zjdx1998"><img src="https://img.icons8.com/material-outlined/27/000000/ball-point-pen.png"/></a>
+<a href= "https://www.linkedin.com/in/jeromyzhang/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
+<a href= "https://twitter.com/zjdx1998"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
+<a href= "https://zjdx1998.com"><img src="https://img.icons8.com/material-outlined/27/000000/geography.png"/></a>
+</p>
+
+<p  align="center">
+<img src="https://visitor-badge.laobi.icu/badge?page_id=zjdx1998.zjdx1998" alt="visitor badge"/>    
+</p>
+
+</p>
