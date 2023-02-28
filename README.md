@@ -10,7 +10,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Northeastern University, Seattle campus from Sep 2021 to May 2023.
-- 🌱 I’m actively looking for 2023 new graduate opportunities.
+- 🌱 I’m interested in Computer Graphics, AR/VR, and other general fullstack development.
 - 👯 I’m looking to collaborate on Game Making. 
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/jeromyzhang/
