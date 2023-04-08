@@ -9,9 +9,10 @@
 -->
 Here are some ideas to get you started:
 
-- 🔭 I’m currently studying at Northeastern University, Seattle campus from Sep 2021 to May 2023.
+- 🔭 B.E. Computer Software Engineering @ Southeast University, M.S. Computer Science @ Northeastern University, USA.
+- 🦫 Ex-Microsoft, Tencent, Taichi.Graphics, Apple, Google.
+- 👨‍💻 AR/VR Software Engineer @ Apple.
 - 🌱 I’m interested in Computer Graphics, AR/VR, and other general fullstack development.
-- 👯 I’m looking to collaborate on Game Making. 
 - 💬 Ask me about anything.
 - 📫 How to reach me: https://www.linkedin.com/in/jeromyzhang/
 <!--
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
+<a href="https://www.djangoproject.com/" target="_blank"> <img src="https://www.djangoproject.com/m/img/logos/django-logo-positive.png" alt="django" width="40" height="40"/> </a> 
+<a href="https://www.docker.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="40"/> </a> 
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> 
 <a href="https://www.electronjs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> 
 <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
@@ -48,7 +49,7 @@ Here are some ideas to get you started:
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://developer.apple.com/metal/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/68/Metal_2_Logo.png/64px-Metal_2_Logo.png" alt="metal" width="40" height="40"/> </a>
+<a href="https://developer.apple.com/metal/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/metal/metal-96x96_2x.png" alt="metal" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/250px-MongoDB_Logo.svg.png" alt="mongodb" width="120" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> 
